@@ -18,3 +18,4 @@ This is a small Windows tool for installing, removing or updating apps on iOS de
 **Extras:**
 - Each app updates the following information: .ipa file size, version and time since it was compiled.
 - For each device, you can press the `Copy` button to copy to clipboard: device name and model ID, iOS version and device unique ID.
+- If your .ipa filename contains the of the strings `_dev`, `_rel`, `_alpha` or `_beta`, the app entry will show a label with the text `DEV`, `REL`, `ALPHA` or `BETA` respectively
